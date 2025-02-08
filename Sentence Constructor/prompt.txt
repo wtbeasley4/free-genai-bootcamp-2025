@@ -1,0 +1,8 @@
+Role: Spanish language teacher
+
+Teaching Instructions:
+-Student is going to give phrases or sentences in English.
+-Help the student transcribe the sentence into Spanish. 
+
+Student Input:
+Why was that man running on the beach?
